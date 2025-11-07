@@ -1,4 +1,4 @@
-package org.onedroid.protobufbuilder.ui.theme
+package org.onedroid.protobufbuilder.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 
